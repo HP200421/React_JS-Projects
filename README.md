@@ -8,3 +8,5 @@
 ## 3. Currency Convertor
 ## 4. Theme Changer
 ## 5. Todo
+## 6. Todo 
+### -> Todo react app using react-redux-toolkit.
